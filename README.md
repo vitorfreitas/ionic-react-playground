@@ -27,6 +27,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run ionic:build`
+
+To run this script successfully, you need to run `ionic capacitor add android` or `ionic capacitor add ios`.
+
+Run `npm run build` along with `ionic capacitor copy` which copies all assets to `/android` or `/ios` folders (native folders), and creates a native bridge between web and native.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
