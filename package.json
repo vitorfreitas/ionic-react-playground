@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@capacitor/android": "^1.1.0",
-    "@capacitor/cli": "1.1.0",
+    "@capacitor/cli": "1.5.3",
     "@capacitor/core": "1.1.0",
     "@ionic/react": "0.0.6-3",
     "react": "^16.8.6",
